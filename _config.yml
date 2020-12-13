@@ -1,15 +1,15 @@
 # Site settings
-title: AJL Nettoyage Peinture - Spécialiste multiservices, nous faisons du nettoyage, de la peinture, du demoussage, et bien d'autres choses pour la façade ou la toiture de votre maison sur toute la région centre.
+title: Mes parents se marient
 author: Yann-Thomas LE MOIGNE
 email: yann.tho.le.moigne@gmail.com
-description: Spécialiste multiservices dans l'entretien de l'extérieur de votre maison. Nettoyage de façade ou toiture, Peinture de façade ou toiture, Demoussage de toiture ou d'allées, Et bien d'autres... Nous sommes installé sur la commune de Luynes dans le département de l'Indre et Loire 37230. Nous travaillons sur l'ensemble de la région Centre Val de Loire. N'hésitez pas à nous demander un devis !
+description: Mes parents se marient
 baseurl: ""
 url: "" # the base hostname & protocol for your site
 
-facebook_username: Ajl-peinture-nettoyage
-facebook_url: https://www.facebook.com/Ajl-peinture-nettoyage-114156446955183/
-ajl_mail: ajlpeinture@gmail.com
-ajl_phone: 06 84 10 43 53
+facebook_username:
+facebook_url:
+ajl_mail:
+ajl_phone:
 
 # Build settings
 markdown: kramdown
