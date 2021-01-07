@@ -172,10 +172,10 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/wedding.jpg');
+    background-image: url('../img/header.jpg');
     background-attachment: fixed;
     text-align: center;
-    color: white;
+    color: #245E57;
     .header-content {
         position: relative;
         text-align: center;
@@ -192,8 +192,8 @@ header {
                 margin: 30px auto;
             }
             p {
-                font-weight: 300;
-                color: rgba(white, .7);
+                font-weight: bold;
+                color: rgba(#245E57, .9);
                 font-size: 16px;
                 margin-bottom: 50px;
             }
@@ -203,7 +203,7 @@ header {
         min-height: 100%;
         .header-content {
             position: absolute;
-            top: 50%;
+            top: 250px;
             -webkit-transform: translateY(-50%);
             -ms-transform: translateY(-50%);
             transform: translateY(-50%);
