@@ -2,6 +2,7 @@ html,
 body {
     height: 100%;
     width: 100%;
+    min-width: 550px;
 }
 
 body {
@@ -25,6 +26,13 @@ a {
     &:focus {
         color: darken($theme-primary, 10%);
     }
+}
+
+.center-flex {
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    align-items: center;
 }
 
 h1,

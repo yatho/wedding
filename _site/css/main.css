@@ -1,4 +1,4 @@
-html, body { height: 100%; width: 100%; }
+html, body { height: 100%; width: 100%; min-width: 550px; }
 
 body { font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif; }
 
@@ -9,6 +9,8 @@ hr.light { border-color: white; }
 a { -webkit-transition: all 0.35s; -moz-transition: all 0.35s; transition: all 0.35s; color: #A9E5BB; }
 
 a:hover, a:focus { color: #82d99c; }
+
+.center-flex { display: flex; flex-direction: column; align-content: flex-start; align-items: center; }
 
 h1, h2, h3, h4, h5, h6 { font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
 
